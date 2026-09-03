@@ -1,7 +1,6 @@
 <html lang="en" class="scroll-smooth">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <img width="1008" height="1040" alt="Image" src="https://github.com/user-attachments/assets/e92f5ce4-5e54-40e5-b6f2-908f473bc074" />
   <title>Rushabh Vora | Mechanical & Production Engineer</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
