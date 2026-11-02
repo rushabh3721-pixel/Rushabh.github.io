@@ -149,7 +149,7 @@
             <li>Applied 5W1H troubleshooting methodology to solve thermal rise defects and equipment abnormalities.</li>
           </ul>
         </div>
-
+        
         <!-- Gujjar Automobile -->
         <div class="p-6 rounded-2xl bg-slate-900/40 border border-slate-800">
           <div class="flex flex-col md:flex-row md:items-center justify-between gap-1 mb-3">
