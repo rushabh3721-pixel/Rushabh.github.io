@@ -150,22 +150,6 @@
           </ul>
         </div>
 
-        <!-- Tata Motors -->
-        <div class="p-6 rounded-2xl bg-slate-900/40 border border-slate-800">
-          <div class="flex flex-col md:flex-row md:items-center justify-between gap-1 mb-3">
-            <div>
-              <h3 class="text-lg font-bold text-white">Production Supervisor (Apprentice - Trim 02 Line)</h3>
-              <p class="text-sm font-medium text-blue-400">Tata Motors Passenger Vehicle Limited • Sanand, Gujarat</p>
-            </div>
-            <div class="text-xs font-medium text-slate-500 bg-slate-800/80 px-3 py-1 rounded-md self-start md:self-auto">Jun 2025 – Aug 2025</div>
-          </div>
-          <ul class="text-sm text-slate-400 space-y-2 list-disc list-inside">
-            <li>Managed shift technicians on TCF (Trim-Chassis-Final) lines to maintain planned hourly output.</li>
-            <li>Monitored daily SQDCM and SDT tracking scorecards across shop-floor stations.</li>
-            <li>Performed Layered Process Audits (LPA) and updated Work Instruction Sheets (WIS).</li>
-          </ul>
-        </div>
-
         <!-- Gujjar Automobile -->
         <div class="p-6 rounded-2xl bg-slate-900/40 border border-slate-800">
           <div class="flex flex-col md:flex-row md:items-center justify-between gap-1 mb-3">
